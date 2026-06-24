@@ -1,3 +1,6 @@
+Donate : 
+SOLANA Wallet : DcAKRehGBhAkNyzQSpABagNmPaQG6Djz76yWanHVR5TD
+
 ## HOW TO INSTALL
 
 ### 1. Install Python
@@ -8,7 +11,6 @@ Ensure you have Python installed on your system (Python 3.8 or higher is recomme
 ### 2. Install Dependencies via requirements.txt
 Open your terminal, command prompt, or VS Code terminal, navigate to the project directory, and run the following command to install all required libraries (`pyautogui`, `opencv-python`, `Pillow`, and `numpy`):
 
-```bash
 pip install -r requirements.txt
 
 HOW TO USE
